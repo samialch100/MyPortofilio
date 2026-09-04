@@ -1,0 +1,54 @@
+ADDITIONAL TRANSPARENT ICONS
+
+Five icons: Discord, LinkedIn, AI, ADO.NET, and Windows application.
+PNG files have actual alpha transparency, including open gaps. White lettering that belongs inside a colored logo is retained.
+Main files are 1024x1024 pixels; smaller versions are in 256 and 128 folders.
+All use centered artwork with consistent visual scale.
+
+Made with built-in image_gen, followed by locally removing the background and sizing, as requested.
+AI is a general artificial-intelligence chip symbol. ADO.NET and Windows application use custom symbols for those technologies.
+
+FILES
+discord.png — Discord
+linkedin.png — LinkedIn
+ai.png — AI
+ado-net.png — ADO.NET
+windows-application.png — Windows application
+
+GENERATION PROMPTS
+
+Discord
+Use case: logo-brand
+Asset type: standalone transparent PNG technology icon.
+Primary request: A single familiar Discord Clyde emblem in solid blurple purple (#5865F2). The recognizable symmetrical game-controller-like mascot with two circular eyes and the small open mouth/negative spaces. Standalone emblem only, no containing tile or circle and no wordmark.
+Scene/backdrop: truly transparent alpha-channel background, including the eye and mouth negative spaces. No visible white or checkerboard behind the mark.
+Style/medium: crisp flat simple vector-like logo with clean antialiased edges, a single solid blurple color.
+Composition/framing: square canvas, mark centered horizontally and vertically, maximum emblem extent around 80 percent of canvas with generous clear transparent padding.
+Constraints: only the Discord emblem, no text, no shadow, no glow, no gradient, no 3D, no texture, no watermark, no border or extra shapes.
+
+LinkedIn
+Use case: logo-brand
+Asset type: standalone transparent PNG technology icon.
+Primary request: The familiar LinkedIn icon: a solid LinkedIn blue (#0A66C2) square with gently rounded corners containing the exact white lowercase text "in" in the familiar heavy sans-serif logo lettering, with the dot above the i. The blue rounded square is part of the logo and should remain opaque.
+Scene/backdrop: genuinely transparent alpha-channel background outside the blue square, clear empty padding with no visible white background or checkerboard.
+Style/medium: crisp flat simple vector-like brand icon, clean antialiased edges, solid blue and white only.
+Composition/framing: square canvas, single icon centered horizontally and vertically, rounded-square mark occupies around 80 percent of canvas width and height.
+Text verbatim: "in".
+Constraints: no extra text, no shadow, no glow, no border, no gradient, no 3D, no texture, no watermark.
+
+AI
+Use case: logo-brand. Asset type: standalone generic Artificial Intelligence icon, intended for a portfolio technology skills list alongside programming language logos. Primary request: a simple recognizable AI microchip symbol, a compact purple square chip body with softly rounded corners, a short set of evenly spaced purple connector pins on each of its four sides, and large crisp white uppercase letters "AI" centered inside. Keep the typography bold and instantly legible at small icon sizes. Use a clean flat vector-like style with solid violet-purple fills, sharp clean geometry and smoothly antialiased edges. A few circuit-like cyan accents may be incorporated into the chip pins, but keep the silhouette simple and unified. The purple chip body is part of the icon; do not add any extra surrounding badge or tile. Composition: one icon, square canvas, centered, occupying around 80 percent of the canvas with comfortable transparent padding. Background: actual transparent PNG alpha outside the chip and pins, no white background, no checkerboard pixels, no shadows, no glow, no text other than exact "AI", no photographic objects, no watermark. Generic AI symbol, not the Adobe Illustrator logo. Export true RGBA PNG with empty background.
+
+ADO.NET
+Use case: logo-brand. Asset type: standalone ADO.NET software technology icon with transparent background. Primary request: create a clean custom icon representing ADO.NET data access. Main mark is a purple and blue database cylinder with three simple tiers, connected by a short clean right-angled line to a small open square connector node. Below the mark is a compact bold sans-serif wordmark with the exact text "ADO.NET", retaining the dot clearly between ADO and NET. Keep the composition simple, balanced and highly legible at small icon size. Style: crisp flat vector-like shapes, restrained purple #512BD4 and medium blue, no dimensional rendering. One mark with its wordmark centered on a square canvas, approximately 80% occupancy with clear margins. Actual transparent alpha background and transparent empty gaps in and around the symbol. No colored background tile, no white background, no painted checkerboard, no shadows, no glows, no frame, no extra text or watermark.
+
+Windows application
+Use case: logo-brand
+Asset type: one standalone transparent Windows desktop application icon
+Primary request: Create a clean general Windows application symbol for use as a small icon.
+Subject: One compact desktop application window drawn with a bold flat Microsoft-blue outline and softly rounded outer corners. A shallow title bar at top separated by one horizontal blue rule; small precise blue minimize, maximize, and close controls in its top-right. In the center of the open window, place the recognizable Windows emblem: four separate equal blue square panes in a 2 by 2 grid with a clean small gap. All blue elements visually coherent.
+Style: crisp flat vector-like symbol, solid blue #0078D4, uniform strong strokes, no textures or gradients, legible at 128 pixels.
+Composition: centered icon in a square canvas, window about 80% canvas width, comfortable transparent padding, wide rectangular application window slightly taller than ordinary widescreen to fit a square icon.
+Background: genuine transparent alpha PNG. Empty space around the window AND inside the window is fully transparent; the four panes and window lines alone are visible. No tile or panel fill behind them.
+Avoid: white fill, colored backdrop, background rectangle, checkerboard artwork, shadow, glow, dimensional shading, words, captions, watermark, extra objects.
+
